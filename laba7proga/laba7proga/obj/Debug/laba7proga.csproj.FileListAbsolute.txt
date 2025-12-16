@@ -1,0 +1,13 @@
+C:\Users\Lenovo\Desktop\labaproga\laba7proga\laba7proga\bin\Debug\laba7proga.exe.config
+C:\Users\Lenovo\Desktop\labaproga\laba7proga\laba7proga\bin\Debug\laba7proga.exe
+C:\Users\Lenovo\Desktop\labaproga\laba7proga\laba7proga\bin\Debug\laba7proga.pdb
+C:\Users\Lenovo\Desktop\labaproga\laba7proga\laba7proga\bin\Debug\EntityFramework.dll
+C:\Users\Lenovo\Desktop\labaproga\laba7proga\laba7proga\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lenovo\Desktop\labaproga\laba7proga\laba7proga\bin\Debug\EntityFramework.xml
+C:\Users\Lenovo\Desktop\labaproga\laba7proga\laba7proga\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lenovo\Desktop\labaproga\laba7proga\laba7proga\obj\Debug\laba7proga.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\labaproga\laba7proga\laba7proga\obj\Debug\laba7proga.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\labaproga\laba7proga\laba7proga\obj\Debug\laba7proga.csproj.Up2Date
+C:\Users\Lenovo\Desktop\labaproga\laba7proga\laba7proga\obj\Debug\laba7proga.exe
+C:\Users\Lenovo\Desktop\labaproga\laba7proga\laba7proga\obj\Debug\laba7proga.pdb
+C:\Users\Lenovo\Desktop\labaproga\laba7proga\laba7proga\obj\Debug\laba7proga.exe.config
